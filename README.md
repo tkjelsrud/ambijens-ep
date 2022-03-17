@@ -14,3 +14,7 @@ Bred og pompøs synth lyd. Noe bass. Programmerte trommer
 T3 - Array
 
 Paranoia siver inn. Et snev av driv. Kunne ha blitt en techno låt men ender opp et annet sted.
+
+T4
+
+Blir det et T4?
