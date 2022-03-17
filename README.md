@@ -5,10 +5,10 @@ Ambijens kan som konsept fungere i bakgrunnen men krever nok mer oppmerksomhet e
 Alle låtene er bygget opp rundt tolmodighet og egner seg ikke for å hoppe rundt, det er neppe tydelige hooks eller melodipartier som skiller seg mer ut enn andre. Det er mer en flytende reise.
 
 T1 - Uten navn
-Super ambient. Drone. Frosset lyd. Holder seg til sjanger uten "beat"
+Super ambient. Drone. Frosset lyd. Holder seg til sjanger uten "beat". Mulig intro spor?
 
-T2 - Musikk for offentlige rom
-Mer musikalsk. Bred og pompøs synth lyd.
+T2 - Musikk for det offentlige rom
+Mer musikalsk. Bred og pompøs synth lyd. Noe bass. Programmerte trommer
 
 T3 - Array
 Mer paranoid. Muligens noe mer driv.
