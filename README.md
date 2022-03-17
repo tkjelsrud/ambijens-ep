@@ -10,4 +10,4 @@ T2 - Musikk for det offentlige rom
 Mer musikalsk. Bred og pompøs synth lyd. Noe bass. Programmerte trommer
 
 T3 - Array
-Mer paranoid. Muligens noe mer driv.
+Paranoia siver inn. Et snev av driv. Kunne ha blitt en techno låt men ender opp et annet sted.
