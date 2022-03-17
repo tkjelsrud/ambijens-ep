@@ -6,6 +6,7 @@ Ambijens kan som konsept fungere i bakgrunnen men krever nok mer oppmerksomhet (
 T1 - Uten navn
 
 Super ambient. Dype droner. Frosset lyd. Et frossent naturlandskap. Holder seg til sjanger uten "beat". Mulig intro spor?
+Gjenstår: Kan være overkomprimert (dynamikk forsvinner)
 
 T2 - Musikk for det offentlige rom
 
