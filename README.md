@@ -7,7 +7,8 @@ T1 - Uten navn
 Super ambient. Dype droner. Frosset lyd. Et frossent naturlandskap. Holder seg til sjanger uten "beat". Mulig intro spor?
 
 T2 - Musikk for det offentlige rom
-Mer musikalsk. Bred og pompøs synth lyd. Noe bass. Programmerte trommer
+
+Bred og pompøs synth lyd. Noe bass. Programmerte trommer
 
 T3 - Array
 Paranoia siver inn. Et snev av driv. Kunne ha blitt en techno låt men ender opp et annet sted.
