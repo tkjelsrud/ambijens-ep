@@ -12,6 +12,8 @@ Gjenstår: Kan være overkomprimert (dynamikk forsvinner)
 
 Bred og pompøs synth lyd. Noe bass. Programmerte trommer
 
+https://www.jottacloud.com/s/021c3ea17256cf84a34b47e9cfb24ca756b
+
 ## T3 - Array
 
 Paranoia siver inn. Et snev av driv. Kunne ha blitt en techno låt men ender opp et annet sted.
