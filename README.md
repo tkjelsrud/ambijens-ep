@@ -1,8 +1,7 @@
 # ambijens-ep
 Musical project - Ambijens - Ambient Techno Jazz EP
 
-Ambijens kan som konsept fungere i bakgrunnen men krever nok mer oppmerksomhet enn et rent ambient album.
-Alle låtene er bygget opp rundt tolmodighet og egner seg ikke for å hoppe rundt, det er neppe tydelige hooks eller melodipartier som skiller seg mer ut enn andre. Det er mer en flytende reise.
+Ambijens kan som konsept fungere i bakgrunnen men krever nok mer oppmerksomhet enn et rent ambient album. I motsetning til forrige "Guitar and Drum" er dette mer digitalt og synth drevet. Alle låtene bygger seg opp, det er neppe tydelige hooks eller melodipartier som skiller seg mer ut enn andre. Det er mer en flytende reise. Et annet mål var å klare å lage låter over 2 minutter som var vanskelig i forrige omgang.
 
 T1 - Uten navn
 Super ambient. Drone. Frosset lyd. Holder seg til sjanger uten "beat". Mulig intro spor?
